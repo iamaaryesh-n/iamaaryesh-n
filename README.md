@@ -25,13 +25,16 @@
 <!-- GitHub Stats -->
 ### 📊 My Statistics  
 
+## ⚡ My Statistics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamaaryesh-n&show_icons=true&theme=dark&bg_color=0d1117&title_color=00BFFF&text_color=9fcef7&icon_color=1e90ff&ring_color=4169e1&hide_border=true&border_radius=15" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamaaryesh-n&show_icons=true&theme=dark&bg_color=0d1117&title_color=00E5FF&text_color=A9F1FF&icon_color=00FFFF&ring_color=00E5FF&hide_border=true&border_radius=15" height="180em" />
   
-  <img src="https://streak-stats.demolab.com?user=iamaaryesh-n&theme=dark&background=0d1117&border_radius=15&ring=1e90ff&currStreakLabel=00BFFF&fire=4169e1&sideLabels=00BFFF&currStreakNum=9fcef7&dates=8ab4f8&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=iamaaryesh-n&theme=dark&background=0d1117&border_radius=15&ring=00E5FF&currStreakLabel=00E5FF&fire=00FFFF&sideLabels=00E5FF&currStreakNum=A9F1FF&dates=89F9FF&hide_border=true" height="180em" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaaryesh-n&layout=compact&theme=dark&bg_color=0d1117&title_color=00BFFF&text_color=9fcef7&hide_border=true&border_radius=15" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaaryesh-n&layout=compact&theme=dark&bg_color=0d1117&title_color=00E5FF&text_color=A9F1FF&hide_border=true&border_radius=15" height="180em" />
 </p>
+
 
 ---
 
