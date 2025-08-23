@@ -23,11 +23,14 @@
 ---
 
 <!-- GitHub Stats -->
-### 📊 GitHub Analytics  
+### 📊 My Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaryeshNamdeo&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryeshNamdeo&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamaaryesh-n&show_icons=true&theme=dark&bg_color=0d1117&title_color=00BFFF&text_color=9fcef7&icon_color=1e90ff&ring_color=4169e1&hide_border=true&border_radius=15" height="180em" />
+  
+  <img src="https://streak-stats.demolab.com?user=iamaaryesh-n&theme=dark&background=0d1117&border_radius=15&ring=1e90ff&currStreakLabel=00BFFF&fire=4169e1&sideLabels=00BFFF&currStreakNum=9fcef7&dates=8ab4f8&hide_border=true" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaaryesh-n&layout=compact&theme=dark&bg_color=0d1117&title_color=00BFFF&text_color=9fcef7&hide_border=true&border_radius=15" height="180em" />
 </p>
 
 ---
@@ -35,7 +38,7 @@
 <!-- Trophies -->
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AaryeshNamdeo&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamaaryesh-n&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -57,5 +60,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AaryeshNamdeo&color=00BFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamaaryesh-n&color=00BFFF&style=for-the-badge" alt="Profile Views" />
 </p>
