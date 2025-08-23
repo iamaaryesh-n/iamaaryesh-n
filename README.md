@@ -1,33 +1,61 @@
-<div align="center">
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Aaryesh+Namdeo;Welcome+to+my+profile!;I+am+a+Developer+%26+Tech+Enthusiast" alt="Typing Animation" />
+</h1>
 
-# 👋 Hello World! I'm Aaryesh Namdeo
+---
 
-### 🚀 Passionate Developer | 💻 Code Enthusiast | 🌟 Creative Problem Solver
+<!-- About Me Section -->
+### 🌌 About Me  
+- 🔭 Currently working on **Web Development & DSA**  
+- 🌱 Learning **AI / ML & Cybersecurity**  
+- 🎯 Goal: To become a **Skilled Full-Stack Developer**  
+- ⚡ Fun Fact: I love **tea in the evening ☕** and **gaming 🎮**  
 
-<!-- Animated Typing Text -->
+---
+
+<!-- Skills -->
+### 💻 Tech Stack  
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Open-Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,java,linux,git,github" />
 </p>
 
-<!-- GitHub Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaryeshNamdeo&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryeshNamdeo&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&border_color=30363d&hide_border=true" alt="GitHub Streak" />
-</div>
+---
 
-</div>
+<!-- GitHub Stats -->
+### 📊 GitHub Analytics  
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AaryeshNamdeo&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryeshNamdeo&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
-## 🌟 About Me
+---
 
-```javascript
-const aaryesh = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
-  tools: ["React", "Node.js", "Express", "MongoDB", "Git", "Docker"],
-  architecture: ["Microservices", "REST APIs", "MVC", "Serverless"],
-  passion: "Creating innovative solutions and learning new technologies",
-  currentFocus: "Full-Stack Development & Open Source Contributions",
-  funFact: "I can solve a Rubik's cube in under 2 minutes! 🎯"
-};
+<!-- Trophies -->
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AaryeshNamdeo&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+<!-- Connect -->
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/iamaaryesh_n" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ff4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AaryeshNamdeo&color=00BFFF&style=for-the-badge" alt="Profile Views" />
+</p>
